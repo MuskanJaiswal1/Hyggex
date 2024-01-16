@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MuskanJaiswal1/Hyggex/static/css/main.a45dcfd0.css",
+    "main.js": "/MuskanJaiswal1/Hyggex/static/js/main.9ccfa405.js",
+    "static/js/787.ee273604.chunk.js": "/MuskanJaiswal1/Hyggex/static/js/787.ee273604.chunk.js",
+    "static/media/publihedBy_Hyggex.png": "/MuskanJaiswal1/Hyggex/static/media/publihedBy_Hyggex.9d03284b5f540e4d1893.png",
+    "index.html": "/MuskanJaiswal1/Hyggex/index.html",
+    "main.a45dcfd0.css.map": "/MuskanJaiswal1/Hyggex/static/css/main.a45dcfd0.css.map",
+    "main.9ccfa405.js.map": "/MuskanJaiswal1/Hyggex/static/js/main.9ccfa405.js.map",
+    "787.ee273604.chunk.js.map": "/MuskanJaiswal1/Hyggex/static/js/787.ee273604.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a45dcfd0.css",
+    "static/js/main.9ccfa405.js"
+  ]
+}
